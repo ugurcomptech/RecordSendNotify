@@ -1,3 +1,13 @@
+# RecordSendNotify
+# Developed by: ugurcomptech
+# License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+
+# WARNING: This tool can potentially be misused for malicious purposes and may lead to
+# unauthorized access to other people's important data. Use it responsibly and only with
+# the consent of the recipient for legitimate purposes.
+
+# Disclaimer: The developer is not responsible for any misuse or damage caused by this tool.
+
 import os
 import argparse
 
