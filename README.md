@@ -16,14 +16,16 @@ Bu araç, ses kaydı yapmanıza ve kaydedilen sesi belirtilen bir e-posta adresi
 
 3. Betik çalıştırıldığında, exe dosyasına dönüşecek ve o exe dosyası açıldığında ses kaydedilecek ve belirtilen alıcı e-posta adresine gönderilecektir.
 
-
 ## Argümanlar
-- -s veya --sender-email: Gönderenin e-posta adresi (Zorunlu).
-- -p veya --sender-password: Gönderenin e-posta şifresi (Zorunlu).
-- -r veya --receiver-email: Alıcının e-posta adresi (Zorunlu).
-- -d veya --duration: Kaydedilecek sesin süresi (Varsayılan: 5 saniye).
-- -n veya --exe-name: Oluşturulacak .exe dosyasının adı (Zorunlu).
-- -c veya --icon-path: İkon dosyasının yolu (isteğe bağlı).
+
+Araç, aşağıdaki argümanlarla kullanılabilir:
+
+- `-s` veya `--sender-email`: **(Zorunlu)** Gönderenin e-posta adresi.
+- `-p` veya `--sender-password`: **(Zorunlu)** Gönderenin e-posta şifresi.
+- `-r` veya `--receiver-email`: **(Zorunlu)** Alıcının e-posta adresi.
+- `-d` veya `--duration`: *(Varsayılan: 5 saniye)* Kaydedilecek sesin süresi.
+- `-n` veya `--exe-name`: **(Zorunlu)** Oluşturulacak `.exe` dosyasının adı.
+- `-c` veya `--icon-path`: *(isteğe bağlı)* İkon dosyasının yolu.
 
 
 ## Örnek Kullanım
