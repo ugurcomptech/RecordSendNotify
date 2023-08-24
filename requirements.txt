@@ -1,0 +1,8 @@
+os-sys
+argparse
+yagmail
+sockets
+uuid
+time
+sounddevice
+soundfile
